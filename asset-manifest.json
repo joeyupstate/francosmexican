@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/francosmexican/static/css/main.83f9cb89.chunk.css",
+    "main.js": "/francosmexican/static/js/main.a3eb10a3.chunk.js",
+    "main.js.map": "/francosmexican/static/js/main.a3eb10a3.chunk.js.map",
+    "runtime-main.js": "/francosmexican/static/js/runtime-main.a92debf5.js",
+    "runtime-main.js.map": "/francosmexican/static/js/runtime-main.a92debf5.js.map",
+    "static/js/2.6c0753ed.chunk.js": "/francosmexican/static/js/2.6c0753ed.chunk.js",
+    "static/js/2.6c0753ed.chunk.js.map": "/francosmexican/static/js/2.6c0753ed.chunk.js.map",
+    "index.html": "/francosmexican/index.html",
+    "static/css/main.83f9cb89.chunk.css.map": "/francosmexican/static/css/main.83f9cb89.chunk.css.map",
+    "static/js/2.6c0753ed.chunk.js.LICENSE.txt": "/francosmexican/static/js/2.6c0753ed.chunk.js.LICENSE.txt",
+    "static/media/avo-icon.jpg": "/francosmexican/static/media/avo-icon.781a4254.jpg",
+    "static/media/index.css": "/francosmexican/static/media/avo.a5c349d4.jpg",
+    "static/media/food.jpg": "/francosmexican/static/media/food.7d0609de.jpg",
+    "static/media/woman.jpg": "/francosmexican/static/media/woman.673e7d3e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a92debf5.js",
+    "static/js/2.6c0753ed.chunk.js",
+    "static/css/main.83f9cb89.chunk.css",
+    "static/js/main.a3eb10a3.chunk.js"
+  ]
+}
