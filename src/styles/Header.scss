@@ -1,0 +1,27 @@
+
+
+.title{
+    color: $titlecolor;
+    font-family: 'Lobster', cursive;
+    font-size:50px;
+    text-decoration:none;
+    margin-left:20px;
+}
+
+.sub-title{
+    color: $titlecolor;
+    font-family: 'Lobster', cursive;
+    font-size:20px;
+    color: $titlecolor;
+
+}
+
+.home-link{
+    text-decoration:none;
+}
+
+/* sticky
+position: -webkit-sticky; 
+position: sticky;
+top: 0;
+*/

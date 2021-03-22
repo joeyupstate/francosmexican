@@ -1,0 +1,30 @@
+.story {
+    background-color: white;
+  margin-top:30px;
+    height: 100%;
+    width: 90%;
+    border-radius: 5px;
+    z-index:1;
+    margin-bottom:70px;
+    @include column();
+  }
+  .story-title{
+      font-size: 18px;
+      font-family: 'Lobster', cursive;
+  }
+  .story-photo{
+      height:40%;
+      width:80%;
+  }
+
+  .story-paragraph{
+    font-family: 'Lobster', cursive;
+    text-align:justify;
+    margin:10px;
+    margin-top:10px;
+  }
+
+  .avo-icon{
+    height:30px;
+    width:30px;
+  }

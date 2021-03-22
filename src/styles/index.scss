@@ -1,0 +1,50 @@
+
+/*colors*/
+
+$titlecolor:rgb(83, 161, 52);
+$menucolor: rgb(255, 255, 255);
+$burgercolor:#cd8044;
+
+//formulas 
+
+@mixin column {
+  display:flex;
+  justify-content: center;
+  align-items:center;
+  flex-direction:column;
+  
+}
+
+
+html
+{
+    min-height: 100%;
+     background-image: url(../assets/avo.jpg);
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center center;
+     margin:0;
+     width:100%;
+     overflow:auto;
+     
+  }
+
+ body{
+   margin:0;
+ }
+.container{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+
+  width:100%;
+  
+}
+@import "./Pledge.scss";
+@import "./Story.scss";
+@import "./Footer.scss";
+@import "./Food-menu.scss";
+@import "./Header.scss";
+@import "./Nav.scss";
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
